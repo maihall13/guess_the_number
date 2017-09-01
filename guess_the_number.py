@@ -6,7 +6,10 @@ def counter():
     return c
 
 correct = 'Congrats you got it'
-too_low = 'Too low'
+
+
+too_low = 'too low!!'
+
 too_high = 'too high'
 
 
