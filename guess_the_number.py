@@ -5,7 +5,7 @@ def counter():
     c = c + 1
     return c
 
-correct = 'Congrats you got it'
+correct = 'Cheers'
 
 
 too_low = 'too low!!'
